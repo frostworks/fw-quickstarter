@@ -1,6 +1,6 @@
 ## Super duper quick quickstarter
 
-`npx @frostworks/fw-quickstart`
+`npx @frostworks/fw-quickstarter`
 
 ## Credit
 
