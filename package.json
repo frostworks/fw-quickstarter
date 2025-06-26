@@ -1,0 +1,25 @@
+{
+  "name": "@frostworks/fw-quickstart",
+  "version": "1.0.0",
+  "description": "A command-line tool to generate a boilerplate NodeBB plugin.",
+  "main": "index.js",
+  "bin": {
+    "fw-quickstart": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "cli",
+    "scaffolding"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
